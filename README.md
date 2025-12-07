@@ -1,2 +1,3 @@
-My codes for the Advent Of Code 2025 event.
-https://adventofcode.com/2025
+My codes for the Advent Of Code events.
+https://adventofcode.com/
+Started on December 5th 2025

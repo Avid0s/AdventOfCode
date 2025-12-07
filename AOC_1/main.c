@@ -66,7 +66,7 @@ int main(void) {
                         position --;
                         if (position == 0) {
                             numOfZeros++;
-                            position += 99;
+                            position += 100;
                         }
                     }
                 }

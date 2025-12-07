@@ -64,21 +64,19 @@ int main(void) {
                 if (!isRight) {
                     for (int k = 0; k < clicks; k++) {
                         position --;
-                        if (position == 0) {
+                        if (position == 0)
                             numOfZeros++;
+                        if (position == -1) {
                             position += 100;
                         }
                     }
                 }
             }
 
-
-
-
         }
-        printf("%d\n", numOfZeros);
+
     }
 
-
+    printf("%d\n", numOfZeros);
     return 0;
 }

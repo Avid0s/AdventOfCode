@@ -2,4 +2,4 @@ My codes for the Advent Of Code events.\
 https://adventofcode.com/
 
 Started on December 5th 2025\
-For the 2025 edition I decided to do it exclusively in C reather than python to learn how to manage file inputs in C.
+Day 1 2025 edition, I decided to do this day exclusively in C to learn better file managment and treatment in a language where I had never done it. 
